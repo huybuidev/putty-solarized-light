@@ -1,0 +1,1 @@
+# putty-solarized-light
